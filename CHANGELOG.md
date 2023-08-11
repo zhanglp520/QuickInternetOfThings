@@ -1,0 +1,2 @@
+QuickInternetOfThings: change log
+=======================
